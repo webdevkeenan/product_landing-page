@@ -2,9 +2,11 @@
 A Product Landing Page that demonstrates my skill with CSS Grid
 * The Project Will Require Me To Use Flexbox at least one time to pass the test.
 
-~~~ ### [Link To Site]() ~~~
+<!-- Update With Links -->
 
-~~~ ### [Youtube Video Demo]() ~~~
+ ### [Link To Site]() 
+
+ ### [Youtube Video Demo]() 
 
 ### Wiki
 
@@ -27,3 +29,5 @@ https://github.com/webdevkeenan/product_landing-page/wiki
 
 ## Image Credits:
 + 
+
+<!-- Take Note of code markdown "~~~" for future use when writing about Javascript">
