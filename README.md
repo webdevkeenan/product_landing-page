@@ -2,9 +2,9 @@
 A Product Landing Page that demonstrates my skill with CSS Grid
 * The Project Will Require Me To Use Flexbox at least one time to pass the test.
 
-### [Link To Site]()
+~~~ ### [Link To Site]() ~~~
 
-~~ ### [Youtube Video Demo]() ~~
+~~~ ### [Youtube Video Demo]() ~~~
 
 ### Wiki
 
