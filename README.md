@@ -1,6 +1,6 @@
 # Product Landing Page
 A Product Landing Page that demonstrates my skill with CSS Grid
-* The Project Will Require Me To Use Flexbox at least one time to pass the test.
+* Disclamier: The Project Will Require Me To Use Flexbox at least one time to pass the test.
 
 <!-- Update With Links -->
 
