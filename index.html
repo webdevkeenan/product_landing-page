@@ -11,44 +11,71 @@
     
 
 <!-- Header -->
+    
     <header id="header">
         
-        <!-- Logo -->
-        <img src="./img/Second Gear Fitness-logos_black.png" alt="Second Gear Fitness Logo" id="header-img">
-        
-        <!-- Nav -->
-        <nav id="nav-bar">
-            <ul>
-                <li><a href="#features" class="nav-link">Features</a></li>
-                <li><a href="#demo" class="nav-link">How It Works</a></li>
-                <li><a href="#pricing" class="nav-link">Pricing</a></li>
-            </ul>
-        </nav>
+            <!-- Nav -->
+            <nav id="nav-bar">
 
-        <form action="https://www.freecodecamp.com/email-submit" method="post" id="form">
-            <p>Handcrafted, home-made masterpieces</p>
-            <input id="email" type="email" name="email" placeholder="Enter Your Email Address" required>
-            <input type="submit" id="submit" value="GET STARTED">
-        </form>
+                <div class="container nav-container">
 
+                    <!-- Logo -->
+                    <img src="./img/Second Gear Fitness-logos_white.png" alt="Second Gear Fitness Logo" id="header-img">
+                
+                    <ul class="nav_menu">
+                        <li><a href="#features" class="nav-link">Features</a></li>
+                        <li><a href="#demo" class="nav-link">How It Works</a></li>
+                        <li><a href="#pricing" class="nav-link">Pricing</a></li>
+                    </ul>
+
+                    <!-- Hamburger -->
+
+                    <div class="hamburger">
+                        <span class="bar"></span>
+                        <span class="bar"></span>
+                        <span class="bar"></span>
+                    </div>
+
+                </div>
+
+            </nav>
+
+                <div class="container form-container">
+
+                    <form action="https://www.freecodecamp.com/email-submit" method="post" id="form">
+                        <p>Handcrafted, home-made masterpieces</p>
+                        <input id="email" type="email" name="email" placeholder="Enter Your Email Address" required>
+                        <input type="submit" id="submit" value="GET STARTED">
+                    </form>
+
+                </div>
+        </div>
     </header>
 
-<!-- Services -->
+        <div class="container"></div>
+            <!-- Services -->
 
-<section id="features"></section>
+            <section id="features"></section>
 
-<!-- Demo (Video) -->
+            <!-- Demo (Video) -->
 
-<section id="demo">
-    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/133QnI1H2kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</section>
+            <section id="demo">
+                <video id="video" loop muted autoplay disablePictureInPicture width="560">
+                    <source src="./video/Second_Gear_Fitness-Demo.mp4" type="video/mp4">
 
-<!-- Pricing -->
+                    Download the 
+                    <a href="./video/Second_Gear_Fitness-Demo.mp4">MP4</a>
+                </video>
+            </section>
 
-<section id="pricing"></section>
+            <!-- Pricing -->
 
-<!-- Footer -->
+            <section id="pricing"></section>
 
+            <!-- Footer -->
+            <footer></footer>
+        </div>
+<script src="./js/script.js"></script>
 </body>
 </html>
 
