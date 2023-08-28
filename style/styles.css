@@ -103,6 +103,8 @@ header {
        /*  padding: 500px 0 500px 0; */
         /* height: 1000px; */
         background-color: rgba(0, 0, 0, 0.4);
+        position: fixed;
+        width: 100%;
 }
 
 
@@ -126,6 +128,12 @@ header {
         justify-content: space-between;
         align-items: center;
         gap: 30px;
+}
+
+main {
+        background-image: url("../img/jonathan-borba-R0y_bEUjiOM-unsplash.jpg");
+        height: 800px;
+        background-position: center;
 }
 
 /***************************
