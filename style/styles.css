@@ -75,14 +75,14 @@ img {
         transition: 0.3s;
       }
 
-      nav-link {
+      .nav-link {
         margin: 16px 0;
-        padding: 20px 0;
       }
 
       .nav_menu.active {
         left: 0;
       }
+      
 }
 
 /***************************
@@ -93,14 +93,16 @@ img {
 
 
 .container {
-        width: 80%;
+        max-width: 1224px;
+        width: 92%;
         margin: 0 auto;
 }
 
 header {
-        background-image: url("../img/jonathan-borba-zfPOelmDc-M-unsplash.jpg");
+       /*  background-image: url("../img/jonathan-borba-zfPOelmDc-M-unsplash.jpg"); */
        /*  padding: 500px 0 500px 0; */
-        height: 1000px;
+        /* height: 1000px; */
+        background-color: rgba(0, 0, 0, 0.4);
 }
 
 
@@ -110,19 +112,21 @@ header {
 
 /** You can change opacity with the alpha channel in RGBA **/
 
-nav {
-        background-color: rgba(0, 0, 0, 0.4);
-        position: fixed;
-        width: 100%;
-        top: 0;
-}
-
-.nav-container {
+#nav-bar {
+        min-height: 70px;
         display: flex;
         justify-content: space-between;
         align-items: center;
+     
 }
 
+
+.nav_menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 30px;
+}
 
 /***************************
 
@@ -139,10 +143,10 @@ ul li {
         list-style: none;       
 }
 
-ul li:nth-child(1), ul li:nth-child(2) {
+/* ul li:nth-child(1), ul li:nth-child(2) {
         padding-right: 2rem;
 } 
-
+ */
 .nav-link {
         text-decoration: none;
         color: none;
