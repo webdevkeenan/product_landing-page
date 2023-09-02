@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Roboto+Mono&display=swap');
 
 *, ::before, ::after {
     padding: 0;
@@ -16,6 +17,8 @@ img {
         width: 100%;
 }
 
+
+
 /***************************
 
         Custom
@@ -24,7 +27,9 @@ img {
 
 :root {
     --font-primary: 2.5rem;
-    --font-secondary: 1.5rem;    
+    --font-secondary: 1.5rem;   
+    --fs-primary: 'Black Ops One', cursive; 
+    --fs-secondary: 'Roboto Mono', monospace;
 } 
 
 /**************************
@@ -65,7 +70,7 @@ img {
 
       .nav_menu {
         position: fixed;
-        left: -100%;
+        left: 100%;
         top: 150px;
         gap: 0;
         flex-direction: column;
@@ -84,6 +89,24 @@ img {
       }
       
 }
+
+/***************************
+
+        Grid Layout
+
+***************************/
+
+body {
+        display: grid;
+        grid-template-rows: repeat(5, 1fr);
+}
+
+#features {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+}
+
+
 
 /***************************
 
@@ -130,11 +153,18 @@ header {
         gap: 30px;
 }
 
-main {
-        background-image: url("../img/jonathan-borba-R0y_bEUjiOM-unsplash.jpg");
-        height: 800px;
-        background-position: center;
+#email {
+        display: block;
+        width: 200px;
+        margin-bottom: 15px;
+        padding: 10px;
 }
+
+#submit {
+        width: 150px;
+        height: 50px;
+}
+
 
 /***************************
 
@@ -163,12 +193,16 @@ ul li {
 }
 
 .nav-link:hover {
-        color: steelblue;
+        color: green;
 }
 
 form p {
         font-size: 3rem;
         color: white;
+}
+
+.nav-link {
+        font-family: var(--fs-primary);
 }
 
 /***************************
