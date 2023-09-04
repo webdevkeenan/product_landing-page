@@ -90,21 +90,30 @@ img {
       
 }
 
+/** Navbar - You can change opacity with the alpha channel in RGBA **/
+
+#nav-bar {
+        min-height: 70px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+     
+}
+
+
+.nav_menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 30px;
+}
+
+
 /***************************
 
         Grid Layout
 
 ***************************/
-
-body {
-        display: grid;
-        grid-template-rows: repeat(5, 1fr);
-}
-
-#features {
-        display: grid;
-        grid-template-columns: 2fr 1fr;
-}
 
 
 
@@ -135,36 +144,60 @@ header {
         width: 150px;
 }
 
-/** You can change opacity with the alpha channel in RGBA **/
-
-#nav-bar {
-        min-height: 70px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-     
-}
-
-
-.nav_menu {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        gap: 30px;
-}
 
 #email {
         display: block;
         width: 200px;
+        margin: 0 auto;
+        margin-top: 15px;
         margin-bottom: 15px;
-        padding: 10px;
+        padding: 10px;  
 }
 
 #submit {
         width: 150px;
         height: 50px;
+        margin-bottom: 100px;
 }
 
+.features__text {
+        text-align: center;
+        padding-bottom: 40px;
+}
+
+.feature__img {
+        width: 400px;
+}
+
+main {
+        padding-top: 200px;
+        text-align: center;
+}
+
+#demo {
+        margin-bottom: 100px;
+}
+
+footer {
+        margin-top: 50px;
+        padding: 30px;
+        background-color: grey;
+        text-align: right;
+        font-size: 1.2rem;
+        color: white;
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: column;
+}
+
+footer ul {
+        justify-content: flex-end;
+        margin-bottom: 10px;
+}
+
+footer ul li:nth-child(1), footer ul li:nth-child(2) {
+     padding-right: 15px;
+}
 
 /***************************
 
