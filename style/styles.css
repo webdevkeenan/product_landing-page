@@ -178,6 +178,33 @@ main {
         margin-bottom: 100px;
 }
 
+.price__box {
+        margin: 0 auto;
+        border: 2px solid black;
+        width: 300px;
+        min-width: 300px;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 20px
+}
+
+.price__box p {
+        width: 100px;
+        line-height: 2;
+}
+
+.price__box button {
+        width: 100px;
+        padding: 10px;
+        background-color: yellow;
+        border-radius: 8px;
+        color: red;
+}
+
 footer {
         margin-top: 50px;
         padding: 30px;
