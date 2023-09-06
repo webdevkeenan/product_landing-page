@@ -4,9 +4,9 @@ A Product Landing Page that demonstrates my skill with CSS Grid
 
 <!-- Update With Links -->
 
- ### [Link To Site]() 
+ ### [Link To Site](https://webdevkeenan.github.io/product_landing-page/) 
 
- ### [Youtube Video Demo]() 
+ ### [Youtube Video Demo](https://youtu.be/qJk1xsznJnA) 
 
 ### Wiki
 
@@ -28,10 +28,18 @@ https://github.com/webdevkeenan/product_landing-page/wiki
 ![Screenshot 2023-09-05 at 20-17-37 Second Gear Fitness Power Isn't Determined By Your Size But the size of your heart and dreams](https://github.com/webdevkeenan/product_landing-page/assets/42125735/39c33dfd-cc05-4bd6-9a8d-51f03fa1d9c9)
 
 
-## Image Credits:
+## Image Credits (Unsplash):
 + [Alora Griffiths](https://unsplash.com/photos/aVrZMPgN_Vg)
 + [Giorgio Trovato](https://unsplash.com/photos/6rlMgGzdGwM)
 + [Joshua Jamias](https://unsplash.com/photos/qmdqe3Cs5Og)
 + [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM)
+
+## Video Credits (Pexels):
++ Cliff Booth
++ Cotton Bro Studio
++ Curtis Adams
++ Harabe-1001
++ Jessica Politi
++ Kampus Production
 
 <!-- Take Note of code markdown "~~~" for future use when writing about Javascript">
