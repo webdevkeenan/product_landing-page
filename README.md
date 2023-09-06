@@ -35,11 +35,11 @@ https://github.com/webdevkeenan/product_landing-page/wiki
 + [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM)
 
 ## Video Credits (Pexels):
-+ Cliff Booth
-+ Cotton Bro Studio
-+ Curtis Adams
-+ Harabe-1001
-+ Jessica Politi
-+ Kampus Production
++ [Cliff Booth](https://www.pexels.com/video/a-trainer-watching-a-woman-do-the-rope-smashing-exercise-4108057/)
++ [Cotton Bro Studio](https://www.pexels.com/video/two-men-using-jump-ropes-in-exercising-4761426/)
++ [Curtis Adams](https://www.pexels.com/video/a-man-training-a-woman-in-boxing-3444517/)
++ [Harabe-1001](https://www.pexels.com/video/man-running-on-a-treadmill-4468823/)
++ [Jessica Politi](https://www.pexels.com/video/people-doing-yoga-992694/)
++ [Kampus Production](https://www.pexels.com/video/elderly-woman-in-a-yoga-class-5991828/)
 
 <!-- Take Note of code markdown "~~~" for future use when writing about Javascript">
