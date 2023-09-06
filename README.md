@@ -29,6 +29,9 @@ https://github.com/webdevkeenan/product_landing-page/wiki
 
 
 ## Image Credits:
-+ 
++ [Alora Griffiths](https://unsplash.com/photos/aVrZMPgN_Vg)
++ [Giorgio Trovato](https://unsplash.com/photos/6rlMgGzdGwM)
++ [Joshua Jamias](https://unsplash.com/photos/qmdqe3Cs5Og)
++ [Jonathan Borba](https://unsplash.com/photos/R0y_bEUjiOM)
 
 <!-- Take Note of code markdown "~~~" for future use when writing about Javascript">
