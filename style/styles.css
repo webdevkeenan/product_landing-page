@@ -11,6 +11,8 @@ html {
         font-size: 62.5%;
         scroll-behavior: smooth;
         background-image: url(../img/giorgio-trovato-6rlMgGzdGwM-unsplash.jpg);
+        background-position: center;
+        background-size: cover;
         background-blend-mode: multiply;
         background-color: gray;
 }
