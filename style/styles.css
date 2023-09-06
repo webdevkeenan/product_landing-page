@@ -238,7 +238,7 @@ main {
 footer {
         margin-top: 50px;
         padding: 30px;
-        background-color: skyblue;
+        background-color: green;
         text-align: right;
         font-size: 1.2rem;
         display: flex;
@@ -305,7 +305,7 @@ form p {
 }
 
 .price__box h3 {
-        background-color: skyblue;
+        background-color: green;
         width: 100%;
 }
 
