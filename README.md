@@ -25,7 +25,7 @@ https://github.com/webdevkeenan/product_landing-page/wiki
 
 
 ### v1.0 [Product Landing Page]
-![Screenshot 2023-09-05 at 20-58-13 Second Gear Fitness Power Isn't Determined By Your Size But the size of your heart and dreams](https://github.com/webdevkeenan/product_landing-page/assets/42125735/25f7b660-ba50-45d5-af92-9b740b2092b7)
+![Screenshot 2023-09-05 at 21-29-54 Second Gear Fitness Power Isn't Determined By Your Size But the size of your heart and dreams](https://github.com/webdevkeenan/product_landing-page/assets/42125735/5cad5917-6d6f-4862-bed7-1a3dd68146dc)
 
 
 ## Image Credits (Unsplash):
